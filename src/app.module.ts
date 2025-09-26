@@ -10,7 +10,7 @@ import { Cadastro } from './cadastro/entities/cadastro.entity';
       host: 'localhost',
       port: 3306,
       username: 'root',
-      password: 'root',
+      password: '123456',
       database: 'db_peopleFlow',
       entities: [Cadastro],
       synchronize: true,
