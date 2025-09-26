@@ -26,7 +26,6 @@ As entidades são refletidas em tabelas conectadas por **chaves primárias** e *
 
 > **Nota:** A estrutura do banco de dados relacional será detalhada com diagramas abaixo:
 
-<img width="777" height="518" alt="image" src="https://github.com/user-attachments/assets/a7c66f39-eb19-43ee-b2c6-2ffdab05231b" />
-
+<img width="532" height="329" alt="image" src="https://github.com/user-attachments/assets/d07b784b-141e-47d0-bb15-252a8d36a1b5" />
 
 ---
